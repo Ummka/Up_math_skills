@@ -278,6 +278,10 @@ namespace Занимательный_матан
                                     $"\tБаланс банка {selectedPlayer}: {scoreBank}.\t {totalPoints} осталось на счету игры.");
                             }
 
+                            // Something is changed...
+                            // a;dslfkja;dflkjasdf;kj
+                            // ;aslkdjf;asldkfjas;lfj
+
                             Console.WriteLine(
                                 $"\n\tБаланс игроков: \t{player} - {playerScore}, \t{opponent} - {opponentScore}");
 
