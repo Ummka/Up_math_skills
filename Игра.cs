@@ -283,7 +283,8 @@ namespace Занимательный_матан
                             // ;aslkdjf;asldkfjas;lfj
                             // a;dlfkjas;ldfkajsfd;lajkdfj
                             // Ochen ofigenno
-
+                            // Esche chto-to
+                            // I esche
                             Console.WriteLine(
                                 $"\n\tБаланс игроков: \t{player} - {playerScore}, \t{opponent} - {opponentScore}");
 
