@@ -281,6 +281,8 @@ namespace Занимательный_матан
                             // Something is changed...
                             // a;dslfkja;dflkjasdf;kj
                             // ;aslkdjf;asldkfjas;lfj
+                            // a;dlfkjas;ldfkajsfd;lajkdfj
+                            // Ochen ofigenno
 
                             Console.WriteLine(
                                 $"\n\tБаланс игроков: \t{player} - {playerScore}, \t{opponent} - {opponentScore}");
